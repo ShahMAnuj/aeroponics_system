@@ -7,3 +7,7 @@ You will need to download the files for the following (non-inbuilt) libraries:
 * dht.h
 * DS18B20.h
 * LDR.h
+
+To send data to ThingSpeak.com, you will also need these libraries:
+* ESP8266WiFi.h
+* ThingSpeak.h
