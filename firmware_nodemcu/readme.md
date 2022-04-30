@@ -1,20 +1,3 @@
-                                        _           
-                                       (_)          
-  __ _  ___ _ __ ___  _ __   ___  _ __  _  ___ ___  
- / _` |/ _ \ '__/ _ \| '_ \ / _ \| '_ \| |/ __/ __| 
-| (_| |  __/ | | (_) | |_) | (_) | | | | | (__\__ \ 
- \__,_|\___|_|  \___/| .__/ \___/|_| |_|_|\___|___/ 
-                     | |                            
-                     |_|                            
-                 _                                  
-                | |                                 
-   ___ _   _ ___| |_ ___ _ __ ___                   
-  / __| | | / __| __/ _ \ '_ ` _ \                  
-  \__ \ |_| \__ \ ||  __/ | | | | |                 
-  |___/\__, |___/\__\___|_| |_| |_|                 
-        __/ |                                       
-       |___/                                        
-
 Welcome to the ReadMe file for the Firmware/Software for the Aeroponics System Project!
 
 The main code for our project is stored as the "Firmware_with_ThingSpeak" INO file. 
