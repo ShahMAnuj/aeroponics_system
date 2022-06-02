@@ -20,7 +20,7 @@ By trying out various combinations of these factors, we want users to be able to
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/47927196/171599387-394b6a95-a1e5-4e46-814a-e9ad67ab2cb3.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/47927196/171599673-b70bb21d-c353-43d1-aa05-6170cb3dbcd5.png" width="300" /> 
+  <img src="https://user-images.githubusercontent.com/47927196/171599673-b70bb21d-c353-43d1-aa05-6170cb3dbcd5.png" width="320" /> 
   <img src="https://user-images.githubusercontent.com/47927196/171599393-ce2306f4-b0cd-44d0-b9de-c917e9c82f82.png" width="300" />
 </p>
 
